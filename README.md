@@ -151,3 +151,18 @@ The robot tracks nearby obstacles and moves while maintaining a **safe distance*
 - Mode switching using buttons
 - PlatformIO support
 
+## Photos
+
+![WhatsApp Image 2025-10-23 at 17 26 06](https://github.com/user-attachments/assets/d76219a2-eaf1-403d-a914-152af973e727)
+
+
+## System Architecture Diagram
+
+<img width="1024" height="1536" alt="arduino" src="https://github.com/user-attachments/assets/3fb58fba-aa20-4f45-9da1-75d4a76fde35" />
+
+
+## Obstacle avoidance using arduino
+
+https://github.com/user-attachments/assets/df1db6ba-4b7d-4601-9c63-d5f77e0635d3
+
+
